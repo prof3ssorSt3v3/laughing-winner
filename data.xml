@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <show name="Archer">
+    <character actor="Jon H Benjamin">
+      Sterling Archer
+    </character>
+    <character actor="Aisha Tyler">
+      Lana Kane
+    </character>
+    <character actor="Amber Nash">
+      Pam Poovey
+    </character>
+    <character actor="Chris Parnell">
+      Cyril Figgis
+    </character>
+    <character actor="Judy Greer">
+      Cheryl Tunt
+    </character>
+  </show>
+</data>
