@@ -3,6 +3,7 @@ const baseUrl = 'https://jsonplaceholder.typicode.com';
 const postsEndpoint = '/posts';
 const userEndpoint = '/users';
 const albumsEndpoint = '/albums';
+const sampleImageUrl = 'https://picsum.photos/400';
 
 document.addEventListener('DOMContentLoaded', init);
 
